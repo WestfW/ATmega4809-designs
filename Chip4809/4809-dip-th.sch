@@ -110,46 +110,46 @@ Based on the following sources:&lt;p&gt;
 <wire x1="-24.35225" y1="5.969" x2="-24.35225" y2="1.27" width="0.1524" layer="21"/>
 <wire x1="-24.35225" y1="8.509" x2="26.89225" y2="8.509" width="0.1524" layer="21"/>
 <wire x1="-24.35225" y1="-8.509" x2="26.89225" y2="-8.509" width="0.1524" layer="21"/>
-<pad name="1" x="-22.86" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="2" x="-20.32" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="3" x="-17.78" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="4" x="-15.24" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="5" x="-12.7" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="6" x="-10.16" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="7" x="-7.62" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="8" x="-5.08" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="9" x="-2.54" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="10" x="0" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="11" x="2.54" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="12" x="5.08" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="13" x="7.62" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="14" x="10.16" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="15" x="12.7" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="16" x="15.24" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="17" x="17.78" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="18" x="20.32" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="19" x="22.86" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="20" x="25.4" y="-7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="21" x="25.4" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="22" x="22.86" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="23" x="20.32" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="24" x="17.78" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="25" x="15.24" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="26" x="12.7" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="27" x="10.16" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="28" x="7.62" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="29" x="5.08" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="30" x="2.54" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="31" x="0" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="32" x="-2.54" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="33" x="-5.08" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="34" x="-7.62" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="35" x="-10.16" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="36" x="-12.7" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="37" x="-15.24" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="38" x="-17.78" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="39" x="-20.32" y="7.62" drill="1.4" shape="long" rot="R90"/>
-<pad name="40" x="-22.86" y="7.62" drill="1.4" shape="long" rot="R90"/>
+<pad name="1" x="-22.86" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="2" x="-20.32" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="3" x="-17.78" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="4" x="-15.24" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="5" x="-12.7" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="6" x="-10.16" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="7" x="-7.62" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="8" x="-5.08" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="9" x="-2.54" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="10" x="0" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="11" x="2.54" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="12" x="5.08" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="13" x="7.62" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="14" x="10.16" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="15" x="12.7" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="16" x="15.24" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="17" x="17.78" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="18" x="20.32" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="19" x="22.86" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="20" x="25.4" y="-7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="21" x="25.4" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="22" x="22.86" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="23" x="20.32" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="24" x="17.78" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="25" x="15.24" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="26" x="12.7" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="27" x="10.16" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="28" x="7.62" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="29" x="5.08" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="30" x="2.54" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="31" x="0" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="32" x="-2.54" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="33" x="-5.08" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="34" x="-7.62" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="35" x="-10.16" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="36" x="-12.7" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="37" x="-15.24" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="38" x="-17.78" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="39" x="-20.32" y="7.62" drill="1.5" shape="long" rot="R90"/>
+<pad name="40" x="-22.86" y="7.62" drill="1.5" shape="long" rot="R90"/>
 <text x="-24.60625" y="-6.35" size="1.778" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-20.32" y="-2.2352" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
 <wire x1="-24.28875" y1="5.87375" x2="-21.11375" y2="5.87375" width="0.4" layer="51"/>
@@ -2816,8 +2816,8 @@ Baite BTE17-06 from https://www.aliexpress.com/store/product/1PCS-CH340E-USB-to-
 <part name="VDD" library="mylib4" deviceset="WIRE" device="-VIA8"/>
 <part name="R3" library="my-rcl" deviceset="R-US_" device="R0805" value="RstPU"/>
 <part name="C8" library="my-rcl" deviceset="C-US" device="C1206" value="Cbyp"/>
-<part name="VS1" library="mylib4" deviceset="VERSIONSTRING" device="" value="0.2"/>
-<part name="R4" library="my-rcl" deviceset="R-US_" device="0204/7" value="RxIso"/>
+<part name="VS1" library="mylib4" deviceset="VERSIONSTRING" device="" value="0.3"/>
+<part name="R4" library="my-rcl" deviceset="R-US_" device="0204/7" value="rLED"/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="LED2" library="mylib4" deviceset="LED" device="3MM"/>
 </parts>
@@ -3014,25 +3014,6 @@ Baite BTE17-06 from https://www.aliexpress.com/store/product/1PCS-CH340E-USB-to-
 <label x="99.06" y="83.82" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="CPUTX" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="PA5"/>
-<wire x1="76.2" y1="63.5" x2="88.9" y2="63.5" width="0.1524" layer="91"/>
-<wire x1="88.9" y1="63.5" x2="88.9" y2="81.28" width="0.1524" layer="91"/>
-<pinref part="MOD1" gate="G$1" pin="RXD"/>
-<wire x1="63.5" y1="86.36" x2="63.5" y2="81.28" width="0.1524" layer="91"/>
-<wire x1="88.9" y1="81.28" x2="63.5" y2="81.28" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="CPURX" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="PA4"/>
-<wire x1="76.2" y1="60.96" x2="86.36" y2="60.96" width="0.1524" layer="91"/>
-<wire x1="86.36" y1="60.96" x2="86.36" y2="78.74" width="0.1524" layer="91"/>
-<pinref part="R1" gate="G$1" pin="2"/>
-<wire x1="86.36" y1="78.74" x2="83.82" y2="78.74" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="USBTX" class="0">
 <segment>
 <pinref part="MOD1" gate="G$1" pin="TXD"/>
@@ -3061,6 +3042,25 @@ Baite BTE17-06 from https://www.aliexpress.com/store/product/1PCS-CH340E-USB-to-
 <pinref part="U$1" gate="G$1" pin="PA7"/>
 <pinref part="R4" gate="G$1" pin="1"/>
 <wire x1="76.2" y1="68.58" x2="93.98" y2="68.58" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$3" class="0">
+<segment>
+<pinref part="R1" gate="G$1" pin="2"/>
+<wire x1="83.82" y1="78.74" x2="86.36" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="86.36" y1="78.74" x2="86.36" y2="63.5" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="PA5"/>
+<wire x1="86.36" y1="63.5" x2="76.2" y2="63.5" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$4" class="0">
+<segment>
+<pinref part="MOD1" gate="G$1" pin="RXD"/>
+<wire x1="63.5" y1="86.36" x2="63.5" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="63.5" y1="81.28" x2="88.9" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="81.28" x2="88.9" y2="60.96" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="PA4"/>
+<wire x1="88.9" y1="60.96" x2="76.2" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
